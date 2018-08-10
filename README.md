@@ -7,6 +7,8 @@
 
 This repository contains source code used to generate the example in *"Density and flow reconstruction in urban traffic networks using heterogeneous data sources"* by   [Andres Ladino](https://github.com/aladinoster), [Carlos Canudas-de-Wit](http://www.gipsa-lab.grenoble-inp.fr/~carlos.canudas-de-wit/), [Alain Kibangou](http://www.gipsa-lab.grenoble-inp.fr/~alain.kibangou/), [Hassen Fourati](http://www.gipsa-lab.grenoble-inp.fr/page_pro.php?vid=1442), and Martin Rodriguez. 
 
+![No Control](results.gif) 
+
 ## Structure 
 
 Launch the file `Main.m` in MATLAB in order to obtain the results. 
